@@ -1,4 +1,4 @@
-## Python timestamps
+### Python timestamps
 
 Sometimes it is useful to be able to get the current data and time as a string. This might be useful for uniquely naming files or labelling data, for instance.
 
