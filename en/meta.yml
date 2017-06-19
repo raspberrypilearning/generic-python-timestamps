@@ -1,4 +1,4 @@
-title: python-timestamps
+title: Creating timestamps with Python
 hero_image: images/banner.png
 subtitle: python-timestamps subtitle
 description: python-timestamps description
@@ -7,4 +7,4 @@ theme: cc-prototype
 published: false
 steps:
   - title: Step one
-    duration: 60
+
