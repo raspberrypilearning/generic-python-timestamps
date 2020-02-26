@@ -9,7 +9,7 @@ Sometimes you might want to get the current date and time as a string, for insta
 - If you want to use the timestamp to name a file, you might want to use this for instance:
 
 	```python
-	filename = "{0:%Y}-{0:%m}-{0:%d}".format(now)
+	filename = "{0:%Y}-{0:%m}-{0:%d}".format(datetime.now())
   ``` 
 	- The `{ }` is used as a placeholder within the string.
 	- The `0` tells the `print` command to use the 0th object that is passed to it. In this case that object is `now`.
